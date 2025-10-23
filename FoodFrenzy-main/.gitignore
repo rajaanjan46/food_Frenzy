@@ -1,0 +1,35 @@
+### Java / Maven
+/target/
+.classpath
+.project
+.settings/
+*.war
+*.jar
+*.log
+
+# Eclipse
+.metadata/
+.recommenders/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+### Node / Frontend
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.vite/
+/frontend/.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
